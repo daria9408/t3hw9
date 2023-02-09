@@ -9,6 +9,7 @@ if (n >= 1)
 {
     Console.WriteLine(NaturalNumber(n, m));
 }
+
 else
 {
     Console.WriteLine("число не положительное");
